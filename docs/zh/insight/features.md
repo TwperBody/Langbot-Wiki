@@ -11,10 +11,10 @@ LangBot 是一个开源的大语言模型原生即时通信机器人开发平台
 | 企业微信 | ✅ |  |
 | 企微对外客服 | ✅ |  |
 | 微信公众号 | ✅ |  |
-| 飞书 | ✅ |  |
-| 钉钉 | ✅ |  |
+| 飞书 | ✅ | 支持流式输出 |
+| 钉钉 | ✅ | 支持流式输出 |
 | Discord | ✅ |  |
-| Telegram | ✅ |  |
+| Telegram | ✅ | 支持流式输出 |
 | Slack | ✅ |  |
 | LINE | 🚧 |  |
 | WhatsApp | 🚧 |  |
@@ -32,7 +32,8 @@ LangBot 是一个开源的大语言模型原生即时通信机器人开发平台
 | [xAI](https://x.ai/) | ✅ |  |
 | [智谱AI](https://open.bigmodel.cn/) | ✅ |  |
 | [优云智算](https://www.compshare.cn/?ytag=GPU_YY-gh_langbot) | ✅ | 大模型和 GPU 资源平台 |
-| [PPIO](https://ppinfra.com/user/register?invited_by=QJKFYD&utm_source=github_langbot) | ✅ | 大模型和 GPU 资源平台 |
+| [PPIO](https://ppio.com/user/register?invited_by=QJKFYD&utm_source=github_langbot) | ✅ | 大模型和 GPU 资源平台 |
+| [胜算云](https://www.shengsuanyun.com/login?code=7DS2QLH5) | ✅ | 大模型和 GPU 资源平台 |
 | [302.AI](https://share.302.ai/SuTG99) | ✅ | 大模型聚合平台 |
 | [Google Gemini](https://aistudio.google.com/prompts/new_chat) | ✅ | |
 | [Dify](https://dify.ai) | ✅ | LLMOps 平台 |

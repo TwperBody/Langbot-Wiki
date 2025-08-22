@@ -8,7 +8,7 @@ export default defineConfig({
     // 编辑链接
     editLink: {
       pattern:
-        "https://github.com/the-lazy-me/Langbot-Wiki/edit/main/docs/:path",
+        "https://github.com/langbot-app/Langbot-Wiki/edit/main/docs/:path",
     },
 
     // 本地搜索
@@ -103,6 +103,16 @@ export default defineConfig({
                       {
                         text: "对外客服",
                         link: "/zh/deploy/platforms/wecom/wecomcs",
+                      },
+                    ],
+                  },
+                  {
+                    text: "微信",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "WeChatPadPro",
+                        link: "/zh/deploy/platforms/wechat/wechatpad.md"
                       },
                     ],
                   },
@@ -215,7 +225,7 @@ export default defineConfig({
         // 编辑链接
         editLink: {
           pattern:
-            "https://github.com/the-lazy-me/Langbot-Wiki/edit/main/docs/:path",
+            "https://github.com/langbot-app/Langbot-Wiki/edit/main/docs/:path",
         },
 
         // 导航栏的社交图标
@@ -406,7 +416,7 @@ export default defineConfig({
         // edit link
         editLink: {
           pattern:
-            "https://github.com/the-lazy-me/Langbot-Wiki/edit/main/docs/:path",
+            "https://github.com/langbot-app/Langbot-Wiki/edit/main/docs/:path",
         },
 
         // social links in the navbar
