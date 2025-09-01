@@ -48,6 +48,10 @@ export default defineConfig({
                 items: [
                   { text: "Docker部署", link: "/zh/deploy/langbot/docker" },
                   {
+                    text: "1Panel面板部署",
+                    link: "/zh/deploy/langbot/one-click/1panel",
+                  },
+                  {
                     text: "宝塔面板部署",
                     link: "/zh/deploy/langbot/one-click/bt",
                   },
@@ -187,6 +191,10 @@ export default defineConfig({
                 link: "/zh/workshop/network-details",
               },
               {
+                text: "接入来自胜算云的模型",
+                link: "/zh/workshop/shengsuanyun-integration"
+              },
+              {
                 text: "接入 PPIO API 的模型",
                 link: "/zh/workshop/ppio-integration"
               },
@@ -267,6 +275,10 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   { text: "Docker Deployment", link: "/en/deploy/langbot/docker" },
+                  {
+                    text: "1Panel Deployment",
+                    link: "/en/deploy/langbot/one-click/1panel",
+                  },
                   {
                     text: "aaPanel Deployment",
                     link: "/en/deploy/langbot/one-click/bt",
